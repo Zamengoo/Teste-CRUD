@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f2f5;
+    background-color: #383b3f;
     margin: 0;
     padding: 20px;
 }
@@ -10,7 +10,7 @@ h2, h3 {
 }
 
 form {
-    background-color: #fff;
+    background-color: #202224;
     max-width: 500px;
     margin: 0 auto;
     padding: 20px;
@@ -20,10 +20,11 @@ form {
 
 label {
     font-weight: bold;
+    color: white;
 }
 
 input {
-    width: 100%;
+    width: 97%;
     padding: 8px;
     margin: 6px 0 16px;
     border: 1px solid #ccc;
